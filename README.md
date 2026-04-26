@@ -8,3 +8,11 @@ RAG = Retrival Augmented Generation
     - Identifies and retreives relevant documents
 - Generator
     - Takes retrieved docs and the input query to generate coherent and contentyally relevant response
+
+## RAG Overview
+
+![alt text](/images/rag-overview.png)
+
+## RAG Deep Drive
+
+![alt text](/images/rag.png)
